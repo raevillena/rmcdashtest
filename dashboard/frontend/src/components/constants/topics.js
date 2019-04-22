@@ -1,0 +1,7 @@
+export const CONDENSER_TOPIC = "dcondenser"
+export const KETTLE_TOPIC = "dkettle"
+export const PUMP_TOPIC = "rae/pump"
+export const HEATER_TOPIC = "dheater"
+export const PROGRESS_TOPIC = "dprogress"
+export const HEATER_SETTING_TOPIC = "redmi6pro"
+export const PUMP_SETTING_TOPIC = "redmi6pro2"
