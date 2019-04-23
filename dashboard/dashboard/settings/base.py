@@ -24,7 +24,7 @@ SECRET_KEY = '1@3u6&$bfy*-rfgi-p!eo#*e^o@6x07aw7=mw994*k^v)tk0=u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['18.216.172.50','nberic.tk','127.0.0.1']
+ALLOWED_HOSTS = ['18.216.42.232','nberic.tk','127.0.0.1']
 
 # Application definition
 
